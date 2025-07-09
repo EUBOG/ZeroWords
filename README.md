@@ -1,0 +1,2 @@
+# ZeroWords
+ZeroWords - учебный проект
